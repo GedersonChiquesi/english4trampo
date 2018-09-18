@@ -1,5 +1,10 @@
 # english4trampo
+
 Inglês avançado para o trampo
+
+# Lugar das Frases
+
+lib/english4trampo.txt
 
 # Padrão de Frases
 
