@@ -1,10 +1,10 @@
 # english4trampo
 
-Inglês avançado para o trampo https://english4trampo.herokuapp.com
+Inglês avançado para o trampo http://www.english4trampo.com/
 
-# Lugar das Frases
+# Como Ajudar
 
-lib/english4trampo.txt
+Faça um pullrequest e edite este arquivo lib/english4trampo.txt
 
 # Padrão de Frases
 
