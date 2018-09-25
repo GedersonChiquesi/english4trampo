@@ -4,7 +4,8 @@ Inglês avançado para o trampo http://www.english4trampo.com/
 
 # Como Ajudar
 
-Faça um pullrequest e edite este arquivo lib/english4trampo.txt
+1 - Edite o arquivo **`lib/english4trampo.txt`**;  
+2 - Envie seu Pull Request.
 
 # Padrão de Frases
 
