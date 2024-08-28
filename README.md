@@ -1,6 +1,6 @@
 # english4trampo
 
-Inglês avançado para o trampo http://www.english4trampo.com/
+Inglês avançado para o trampo (feito como piada)
 
 # Como Ajudar
 
